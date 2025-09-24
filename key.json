@@ -1,6 +1,6 @@
 {
   "users": [
     { "key": "Ahsan", "expires": "2025-09-29T00:00:00Z" },
-    { "key": "xyz789", "expires": "2025-09-08T00:00:00Z" }
+    { "key": "admin", "expires": "2026-09-08T00:00:00Z" }
   ]
 }
